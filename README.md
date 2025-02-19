@@ -3,11 +3,11 @@ IMDbTopMovieScraper is a Python-based web scraping project that extracts detaile
 
 
 
-Requirements
+**Requirements**
 Before running the project, make sure you have the following installed:
 
-Python 3.x
-requests library
-beautifulsoup4 library
-pandas library
-json module (included in Python's standard library)
+1)Python 3.x
+2)Requests library
+3)Beautifulsoup4 library
+4)Pandas library
+5)Json module (included in Python's standard library)
